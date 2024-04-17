@@ -3,7 +3,8 @@
 
 
 
-## LangChain Chaining Chapter1
+# Integrating code with OpenAI API
+
 
 import os
 from constants import openai_key
