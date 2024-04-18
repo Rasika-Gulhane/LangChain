@@ -1,3 +1,7 @@
 openai
 langchaing
 streamlit
+PyPDF2
+
+faiss-cpu
+tiktoken

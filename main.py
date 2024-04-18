@@ -20,7 +20,6 @@ input_text = st.text_input("Search the topic u want")
 
 
 
-
 # prompt template
 
 first_prompt = PromptTemplate(
