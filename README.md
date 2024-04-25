@@ -6,6 +6,7 @@ Chapters:
 2. Further understanding of prompts and FewShotPromptTemplate
 3. PDF Query Using Langchain Q/A chain (Includes Text Embedding for classification, Search, recommendation, detection, etc)
 4. LLM Model with Deployment using HuggingFace Spaces
+5. RAG (Retrieval Augmentated Generation) basic wth custom retrieval
 
 
 ## Working with langChain

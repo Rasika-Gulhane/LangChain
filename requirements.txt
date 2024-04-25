@@ -1,5 +1,6 @@
 openai
-langchaing
+langchain
+langchain_openai
 streamlit
 PyPDF2
 
