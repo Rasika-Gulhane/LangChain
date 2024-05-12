@@ -10,7 +10,7 @@ Chapters:
 3. PDF Query Using Langchain Q/A chain (Includes Text Embedding for classification, Search, recommendation, detection, etc)
 4. LLM Model with Deployment using HuggingFace Spaces
 5. RAG (Retrieval Augmentated Generation) basic wth custom retrieval
-6. OLlama : Chatbot
+6. LangSmith: Chatbot using LangChain and performance tracking, debug, evaluate and monitor chains with LangSmith
 
 
 ## Working with langChain
@@ -20,9 +20,10 @@ Part: 1
 - Install all the requirements 
 - Run the required chapter python file using streamlit run
 
-Part: 2
+Part: 2 For Lanngchain and LangSmith tracking (refer chapter6)
 - LANGCHAIN_API_KEY: Create ypur Langchain API key
-- LANGCHAIN_PROJECT: ProjectName
+- LANGCHAIN_PROJECT: ProjectName 
+
 
 ## Streamlit Run
 
@@ -38,3 +39,4 @@ https://huggingface.co/spaces/rasika-gulhane/LLM_Chatbot_Q-A
 - Go to App in Home page
 - Good to Run
 
+## 
